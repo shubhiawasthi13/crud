@@ -1,0 +1,37 @@
+*{
+    text-decoration: none;
+}
+body{
+    background-color: rgb(228, 221, 221);
+}
+button{
+    background-color: green;
+    color: white;
+    padding: 6px;
+}
+a{
+    background-color: blue;
+    color: white;
+     padding: 6px;
+}
+table td{
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+h2{
+    font-size: 40px;
+}
+form input{
+    padding: 8px;
+    width: 50%;
+    margin-bottom: 8px;
+}
+label{
+    font-size: 19px;
+    padding-bottom: 5px;
+}
+select{
+    padding: 8px;
+    width: 20%;
+}
